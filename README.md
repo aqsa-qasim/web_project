@@ -1,1 +1,1 @@
-# web_project
+# Fashion Feet Shoes website
